@@ -17,6 +17,6 @@ function calcular(){
         res.innerHTML = `<b>${nome}</b>, se você aplicar <b>R $${mensal}</b>, 
         à taxa de juros de <b>${tjuros}%</b> ao mês,
         durante <b>${meses}</b> meses,
-        acumulará uma poupança de <b>R $${vf}</b>`   
+        você acumulrá um total de <b>R $${vf}</b>`   
     
 }
