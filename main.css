@@ -20,7 +20,8 @@ section{
 
 
 .btn{
-    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
     cursor: pointer;
     padding: 20px;
     color: white;
@@ -28,12 +29,14 @@ section{
     background-color: #6658d3;
     border-radius:3px;
     border: none;
+    transition: 1s;
 }
 .btn:hover{
     background-color: rgb(0, 0, 0);
 }
 
 .input{
+    font-family: 'Poppins', sans-serif;
     font-size: 10px
     border: none;
     margin: none;
@@ -41,5 +44,5 @@ section{
 }
 
 #resultado{
-    font-size: 20px;
+    font-size: 15px;
 }
