@@ -1,6 +1,6 @@
 // Recebendo variaveis
 function calcular(){
-    const nome = document.getElementById('nome').value)
+    const nome = document.getElementById('nome').value
     const mensal = Number(document.getElementById('rendamensal').value)
     const tjuros = Number(document.getElementById('taxajuros').value)
     const meses = Number(document.getElementById('nmrparcelas').value)
