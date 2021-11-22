@@ -29,6 +29,7 @@ section{
     background-color: #6658d3;
     border-radius:3px;
     border: none;
+    width: 100%;
     transition: 1s;
 }
 .btn:hover{
@@ -42,6 +43,7 @@ section{
     margin: none;
     border-bottom: 2px solid #000;
     appearence: none;
+    width: 100%;
 }
 
 #resultado{
