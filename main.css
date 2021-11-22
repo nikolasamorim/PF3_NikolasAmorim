@@ -33,10 +33,12 @@ section{
     background-color: rgb(0, 0, 0);
 }
 
+input{
+    appearence: none;
+}
 .input{
     font-size: 10px
     border: none;
     margin: none;
     border-bottom: 2px solid #000;
-    appearance: none;  
 }
