@@ -20,8 +20,9 @@ section{
 
 
 .btn{
-    font-size: 20px;
+    font-size: 25px;
     cursor: pointer;
+    padding: 20px;
     color: white;
     margin: 2px;
     background-color: #6658d3;
