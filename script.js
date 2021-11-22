@@ -9,10 +9,10 @@ function calcular(){
  // Definindo elemento pelo ID
     var res = document.getElementById("resultado")
 
-//Calculo + Impressão de resposta
+// Calculo
     let vf = mensal*((1+juros)**meses-1)/juros.toFixed(2)  
     
-    
+// Impressão de resposta    
         res.innerHTML = `<b>${nome}</b>, se você aplicar <b>R $${mensal}</b>, 
         à taxa de juros de <b>${tjuros}%</b> ao mês,
         durante <b>${meses}</b> meses,
