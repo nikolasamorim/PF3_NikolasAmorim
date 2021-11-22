@@ -21,7 +21,9 @@ section{
     text-align: center;
 }
 
-
+h1{
+    font-size: 25px;
+}
 
 .btn{
     font-family: 'Poppins', sans-serif;
